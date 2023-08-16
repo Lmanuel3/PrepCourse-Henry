@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-este es un repositorio para clonarlo desde github
+crear un repositorio y clonarlo desde git hub a mi escritorio local
